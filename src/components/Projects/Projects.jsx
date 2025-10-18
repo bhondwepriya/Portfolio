@@ -2,10 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import hotel from "../../Assets/Projects/hotel.png";
-import Luxe from "../../Assets/Projects/Luxe Gleam.png";
-import tourist from "../../Assets/Projects/tourist.png";
-import figma from "../../Assets/Projects/figma-e-commerce.png";
+import hotel from "../../assets/Projects/hotel.png";
+import Luxe from "../../assets/Projects/Luxe Gleam.png";
+import tourist from "../../assets/Projects/tourist.png";
+import figma from "../../assets/Projects/figma-e-commerce.png";
 
 const Projects = () => {
   return (

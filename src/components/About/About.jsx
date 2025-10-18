@@ -4,7 +4,7 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.webp";
+import laptopImg from "../../assets/about.webp";
 import Toolstack from "./Techstack";
 
 const About = () => {
