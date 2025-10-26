@@ -96,7 +96,7 @@ const NavBar = () => {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/bhondwepriya"
+                href="https://github.com/bhondwepriya/Portfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >
